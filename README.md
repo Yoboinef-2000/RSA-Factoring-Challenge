@@ -1,1 +1,1 @@
-This repo holds exercises on cryptography based on RSA factoring
+This repo holds cryptography exercises based on RSA factoring
